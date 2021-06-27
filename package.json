@@ -1,0 +1,22 @@
+{
+  "name": "@idirdev/loadspike",
+  "version": "1.0.0",
+  "description": "HTTP load testing tool with statistics",
+  "main": "src/index.js",
+  "author": "idirdev",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/idirdev/loadspike.git"
+  },
+  "keywords": [],
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "scripts": {
+    "test": "node --test tests/"
+  },
+  "bin": {
+    "loadspike": "bin/cli.js"
+  }
+}
