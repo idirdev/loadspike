@@ -18,5 +18,9 @@
   },
   "bin": {
     "loadspike": "bin/cli.js"
+  },
+  "homepage": "https://github.com/idirdev/loadspike",
+  "bugs": {
+    "url": "https://github.com/idirdev/loadspike/issues"
   }
 }
